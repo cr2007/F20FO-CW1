@@ -21,7 +21,7 @@
 
   #data.studentFirstName #data.studentLastName \
   BSc. Computer Science (Hons.) \
-  #link(strfmt("mailto:{}", email))[#email] \ \
+  #link(strfmt("mailto:f20fo@csk.fyi?subject=F20FO%20Coursework%201", email))[#email] \ \
 
   #text(size: 18pt, strong[
     OneDrive Video Link: #link("mailto:f20fo@csk.fyi?subject=Video%20Demo%20-%20F20FO%20Coursework%201", strfmt("F20FO-CW1_{}.mp4", data.studentEmail))
