@@ -1,0 +1,5 @@
+# Document metadata
+metadata.yml
+
+# Avoid committing generated files
+dist/
