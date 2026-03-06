@@ -248,10 +248,6 @@ When monitoring traffic in NetworkMiner or examining a specific packet capture f
   caption: "NetworkMiner examining the packet capture file, seeing the Fingerprint OS",
   rect(stroke: 0.85pt, image(height: 8.51cm, "images/network-miner/NetworkMiner_PCAP-File_Fingerprint-OS.png")),
 )
-#figure(
-  caption: "NetworkMiner examining the packet capture file, seeing the Fingerprint OS",
-  rect(stroke: 0.85pt, image(height: 8.51cm, "images/network-miner/NetworkMiner_PCAP-File_Fingerprint-OS.png")),
-)
 
 As illustrated in the diagram above, utilizing the same PCAP file referenced in previous examples reveals three distinct hosts in the list.
 Notably, one host is identified as running Windows, while the operating systems of the other two hosts are labeled as Unknown.
